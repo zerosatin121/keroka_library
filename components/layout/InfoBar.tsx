@@ -7,7 +7,7 @@ export function InfoBar() {
                 <div className="flex items-center gap-4">
                     <div className="flex items-center gap-1.5">
                         <Clock className="w-4 h-4" />
-                        <span>Open: Mon-Sat, 8am - 6pm</span>
+                        <span>Open: Mon-Fri, 8am - 6pm</span>
                     </div>
                     <div className="hidden md:flex items-center gap-1.5">
                         <MapPin className="w-4 h-4" />

@@ -29,7 +29,7 @@ export function NavBar() {
                         </div>
                         <div className="flex flex-col">
                             <span className="font-merriweather font-bold text-xl text-primary leading-tight">
-                                The Bridge
+                                Keroka Community 
                             </span>
                             <span className="text-xs text-gray-600 font-inter uppercase tracking-wider">
                                 Community Library

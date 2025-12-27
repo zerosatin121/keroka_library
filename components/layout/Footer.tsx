@@ -11,7 +11,7 @@ export function Footer() {
                     <div className="col-span-1 md:col-span-1">
                         <div className="flex items-center gap-2 mb-4">
                             <BookOpen className="w-6 h-6 text-accent" />
-                            <span className="font-merriweather font-bold text-xl">The Bridge</span>
+                            <span className="font-merriweather font-bold text-xl">Keroka Community Library</span>
                         </div>
                         <p className="text-white/80 text-sm leading-relaxed">
                             A digital extension of your community library. Access books, stories, and heritage from anywhere.

@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "title": "Old Railway Station",
+        "description": "A photograph of the railway station in 1950.",
+        "type": "Photo",
+        "year": "1950",
+        "imageUrl": "/assets/railway.png"
+    },
+    {
+        "id": "2",
+        "title": "Traditional Basket Weaving",
+        "description": "Story of the basket weaving techniques passed down through generations.",
+        "type": "Story",
+        "contributor": "Mama Wanjiku",
+        "imageUrl": "/assets/weaving.png"
+    }
+]

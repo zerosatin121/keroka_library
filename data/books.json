@@ -1,0 +1,402 @@
+[
+  {
+    "sn":1,
+    "book_title":"The untold story : Gusii Survival Techniques and resistance to the Establishment of British colonial rule",
+    "author":"by John S. Akama",
+    "isbn_number":"978-9966109576",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=iRosxwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"history",
+    "publication_date":"August 6, 2019",
+    "publisher":"Nsemia Inc"
+  },
+  {
+    "sn":2,
+    "book_title":"Strategy for winning in highschool",
+    "author":"by Emmanuel Gisesa",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=VKplzQGxGw0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Law",
+    "publication_date":"1969",
+    "publisher":null
+  },
+  {
+    "sn":3,
+    "book_title":"Little white man",
+    "author":"by Meja Mwangi",
+    "isbn_number":"9789966490575",
+    "cover_page":null,
+    "genre":"Friendship",
+    "publication_date":"February 17, 2017",
+    "publisher":"Longhorn Publishers and Worldreader"
+  },
+  {
+    "sn":4,
+    "book_title":"Mtaka yote hukosa yote",
+    "author":"by L O Omolo",
+    "isbn_number":"9780865436596",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=Kbv-xbkF0GgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Literary Criticism",
+    "publication_date":"1998",
+    "publisher":"Africa World Press"
+  },
+  {
+    "sn":5,
+    "book_title":"Kufa Kuzikana",
+    "author":"by Ken Walibora",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=rt0ByiFwyLAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Kenya",
+    "publication_date":"1998",
+    "publisher":null
+  },
+  {
+    "sn":6,
+    "book_title":"The New moon",
+    "author":"by Stephanie MEYER",
+    "isbn_number":"9780761363705",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=ezO5jgwQJIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Young Adult Nonfiction",
+    "publication_date":"2010-08-01",
+    "publisher":"Twenty-First Century Books"
+  },
+  {
+    "sn":7,
+    "book_title":"THE ROUTLEDGE ANTHOLOGY OF POETS ON POETS",
+    "author":"BY DAVID HOPKINS",
+    "isbn_number":"9781134814848",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=j6OHAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Language Arts & Disciplines",
+    "publication_date":"2003-09-02",
+    "publisher":"Routledge"
+  },
+  {
+    "sn":8,
+    "book_title":"HISTORY OF THE TWENTIETH CENTURY",
+    "author":"BY MARTIN GILBERT",
+    "isbn_number":"9780795337321",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=F-waDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"History",
+    "publication_date":"2014-06-05",
+    "publisher":"Rosetta Books"
+  },
+  {
+    "sn":9,
+    "book_title":"DELTA NIGERIA THE RAPE OF PARADISE",
+    "author":"BY GEORGE OSODI",
+    "isbn_number":"9781000779875",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=8CKIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Nature",
+    "publication_date":"2022-11-16",
+    "publisher":"Taylor & Francis"
+  },
+  {
+    "sn":10,
+    "book_title":"GENERAL PRINCIPLES AND COMMERCIAL LAW OF KENYA",
+    "author":"BY ASHIQ HUSSAIN",
+    "isbn_number":"9789966461094",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=x01FY88hH0gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Commercial law",
+    "publication_date":"1993",
+    "publisher":"East African Publishers"
+  },
+  {
+    "sn":11,
+    "book_title":"BASIC CONCEPTS OF MICROECONOMICS WITH REFERENCE TO KENYA",
+    "author":"BY C. AKELLO-OGUTU & JOHN J. WAELTI",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=PLYPAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Africa",
+    "publication_date":"1993",
+    "publisher":null
+  },
+  {
+    "sn":12,
+    "book_title":"Make money on the stock exchange",
+    "author":"by Robert Leach , ACC",
+    "isbn_number":"9781897597279",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=m6LoAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Business & Economics",
+    "publication_date":"2004",
+    "publisher":"Harriman House Limited"
+  },
+  {
+    "sn":13,
+    "book_title":"IMMUNOLOGY SECOND EDITION",
+    "author":"BY IVAN ROITT. JONATHAN BROSTOFF. DAVID MALE",
+    "isbn_number":"9780702050282",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=5utUGzGBeC4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Medical",
+    "publication_date":"2012-08-27",
+    "publisher":"Elsevier Health Sciences"
+  },
+  {
+    "sn":14,
+    "book_title":"VETERINARY EPIDEMIOLOGY PRINCIPLES AND METHODS",
+    "author":"BY. S. WAYNE MARTIN ALAN H. MEEK PREBEN WILLEBERG",
+    "isbn_number":"9780813818566",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=m3ygQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Technology & Engineering",
+    "publication_date":"1987",
+    "publisher":"Iowa State Press"
+  },
+  {
+    "sn":15,
+    "book_title":"LARGE ANIMAL SURGERY",
+    "author":"BY FREDERICK W. OEHME JAMES E. PRIER",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=yMMtAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Veterinary medicine",
+    "publication_date":"1911",
+    "publisher":null
+  },
+  {
+    "sn":16,
+    "book_title":"BOVINE MEDICINE & SURGERY",
+    "author":"BY GIBBONS . CATCOTT. SMITHCORNS",
+    "isbn_number":"9781444336436",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=K6mlCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Medical",
+    "publication_date":"2015-06-02",
+    "publisher":"John Wiley & Sons"
+  },
+  {
+    "sn":17,
+    "book_title":"EDEXCEL A2 PSYCHOLOGY CHRISTIAN BRAIN",
+    "author":"BY PHILIP ALLAN",
+    "isbn_number":null,
+    "cover_page":null,
+    "genre":null,
+    "publication_date":null,
+    "publisher":null
+  },
+  {
+    "sn":18,
+    "book_title":"PHYSICS FOR OCR 2",
+    "author":"BY GURINDE CHADHA DAVID SANG",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=iydFAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Bibliography, National",
+    "publication_date":"2009",
+    "publisher":null
+  },
+  {
+    "sn":19,
+    "book_title":"AN INTRODUCTION TO THE PHILOSOPHY OF RELIGION",
+    "author":"BY BRIAN DAVIES",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=3AfXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Language Arts & Disciplines",
+    "publication_date":"1993",
+    "publisher":"Oxford University Press, USA"
+  },
+  {
+    "sn":20,
+    "book_title":"HINDU WORSHIP",
+    "author":"BY J. MAYLED",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=DdhLAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Great Britain",
+    "publication_date":"1986",
+    "publisher":null
+  },
+  {
+    "sn":21,
+    "book_title":"DISEASES OF CATTLE IN TROPICAL AFRICA",
+    "author":"BY G.M MUGARA. O BWANGAMOI .  J.G WANDERA",
+    "isbn_number":null,
+    "cover_page":null,
+    "genre":"Cattle",
+    "publication_date":"1979",
+    "publisher":null
+  },
+  {
+    "sn":22,
+    "book_title":"RELIGION AND MORALITY BY SHEILA BUTLER",
+    "author":"BY JOHN MAYLED AND JANET GREEN",
+    "isbn_number":null,
+    "cover_page":null,
+    "genre":null,
+    "publication_date":null,
+    "publisher":null
+  },
+  {
+    "sn":23,
+    "book_title":"GCSE RELIGIOUS STUDIES FOR OCR A CHRISTIANITY 2ND EDITION",
+    "author":"by S. M. STIRLING",
+    "isbn_number":"9780340984116",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=DAVpPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Christianity",
+    "publication_date":"2009-06",
+    "publisher":"Hodder Murray"
+  },
+  {
+    "sn":24,
+    "book_title":"Against the tide of years",
+    "author":null,
+    "isbn_number":"9781570032714",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=TYZSg4tGzRcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Biography & Autobiography",
+    "publication_date":"1998",
+    "publisher":"Univ of South Carolina Press"
+  },
+  {
+    "sn":25,
+    "book_title":"LUCIANO'S LUCK BY JACK HIGGINS",
+    "author":"BY JACK HIGGINS",
+    "isbn_number":null,
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=Un0gAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"1981",
+    "publisher":"Scarborough House"
+  },
+  {
+    "sn":26,
+    "book_title":"THE LADDY CHAPEL",
+    "author":"BY CANDACE M. ROBB",
+    "isbn_number":"9781626819764",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=3rxACgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"2015-07-28",
+    "publisher":"Diversion Publishing Corp."
+  },
+  {
+    "sn":27,
+    "book_title":"THE PEARL HARBOR HARBOR MURDER",
+    "author":"BY MAX ALLAN COLLINS",
+    "isbn_number":"9780425179437",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=dWFX0jzDDpAC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"2001",
+    "publisher":"Berkley"
+  },
+  {
+    "sn":28,
+    "book_title":"MASTER OF THE GAME",
+    "author":"BY SIDNEY SHELDON",
+    "isbn_number":"9780330281294",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=-v2vQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Businesswomen",
+    "publication_date":"1983",
+    "publisher":null
+  },
+  {
+    "sn":29,
+    "book_title":"ROMEO AND JULIET",
+    "author":"BY SHAKESPEARE",
+    "isbn_number":"9781604138139",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=a86GYjcjvTIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Drama",
+    "publication_date":"2010",
+    "publisher":"Infobase Publishing"
+  },
+  {
+    "sn":30,
+    "book_title":"The new prophecy warriors Dawn",
+    "author":"by ERIN HUNTER",
+    "isbn_number":"9780060744564",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=9MB9NgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Juvenile Fiction",
+    "publication_date":"2005-12-27",
+    "publisher":"HarperColl"
+  },
+  {
+    "sn":31,
+    "book_title":"MASTER and COMMANDER BY PATRICK O BRIAN",
+    "author":"BY PATRICK O BRIAN",
+    "isbn_number":"9780007157860",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=CmmqYm2JkJoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"2003",
+    "publisher":null
+  },
+  {
+    "sn":32,
+    "book_title":"ROOM",
+    "author":"BY EMMA DONOGHUE",
+    "isbn_number":"9781743036426",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=RYYZlU1F2m8C&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"2010-07-23",
+    "publisher":"Picador"
+  },
+  {
+    "sn":33,
+    "book_title":"A SEPARATE PEACE WITH CONNECTION",
+    "author":"BY JOHN KNOWLES",
+    "isbn_number":"9781438126524",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=BtqXXFJ76y8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Juvenile Nonfiction",
+    "publication_date":"2014-05-14",
+    "publisher":"Infobase Publishing"
+  },
+  {
+    "sn":34,
+    "book_title":"Chronicles of the Idler",
+    "author":"by Joshua NYANGAU ARAKA AKA THE IDLER",
+    "isbn_number":null,
+    "cover_page":null,
+    "genre":null,
+    "publication_date":null,
+    "publisher":null
+  },
+  {
+    "sn":35,
+    "book_title":"FEMALE CIRCUMCISIONS AMONG ABAGUSII KENYA",
+    "author":"BY DANIEL MOMANYI MOKAYA",
+    "isbn_number":"9789047422686",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=WPuvCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Religion",
+    "publication_date":"2007-11-30",
+    "publisher":"BRILL"
+  },
+  {
+    "sn":36,
+    "book_title":"THE CRICKET IN TIMES SQUARE",
+    "author":"BY GEORGE SELDEN",
+    "isbn_number":"9781770722620",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=yPaWd01gf-oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Education",
+    "publication_date":"1972",
+    "publisher":"On The Mark Press"
+  },
+  {
+    "sn":37,
+    "book_title":"PEPPERED PATH",
+    "author":"BY JOSHUA NYANGAU ARAKA",
+    "isbn_number":null,
+    "cover_page":null,
+    "genre":null,
+    "publication_date":null,
+    "publisher":null
+  },
+  {
+    "sn":38,
+    "book_title":"THE ADVISORIES",
+    "author":"BY JACK CAVANAUGH",
+    "isbn_number":"9781416596462",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=GHfLq03FyVUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"2008-05-20",
+    "publisher":"Simon and Schuster"
+  },
+  {
+    "sn":39,
+    "book_title":"PHULE ME TWICE",
+    "author":"BY ROBERT L. ASPRIN WITH PETER J. HECK",
+    "isbn_number":"9781614754596",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=Of13EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"Fiction",
+    "publication_date":"2022-06-30",
+    "publisher":"WordFire +ORM"
+  },
+  {
+    "sn":40,
+    "book_title":"HARVEST OF LOVE",
+    "author":"BY SAM ARYEETEY",
+    "isbn_number":"9789042012837",
+    "cover_page":"http:\/\/books.google.com\/books\/content?id=bjTT4cLtM3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "genre":"History",
+    "publication_date":"2000",
+    "publisher":"Rodopi"
+  }
+]

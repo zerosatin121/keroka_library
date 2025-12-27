@@ -1,0 +1,24 @@
+[
+    {
+        "id": "1",
+        "title": "Community Clean-up Day",
+        "type": "Event",
+        "date": "2024-04-20",
+        "content": "Join us for a neighborhood clean-up starting at the town square.",
+        "location": "Town Square"
+    },
+    {
+        "id": "2",
+        "title": "Librarian Assistant Needed",
+        "type": "Job",
+        "date": "2024-04-01",
+        "content": "The library is looking for a part-time assistant. Submit CV at the front desk."
+    },
+    {
+        "id": "3",
+        "title": "Holiday Closure",
+        "type": "Announcement",
+        "date": "2024-05-01",
+        "content": "The library will be closed on Labour Day."
+    }
+]

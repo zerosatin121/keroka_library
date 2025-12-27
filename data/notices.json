@@ -18,7 +18,21 @@
         "id": "3",
         "title": "Holiday Closure",
         "type": "Announcement",
-        "date": "2024-05-01",
+        "date": "2025-12-12",
         "content": "The library will be closed on Labour Day."
+    },
+      {
+        "id": "4",
+        "title": "Holiday Closure",
+        "type": "Announcement",
+        "date": "2025-12-25",
+        "content": "The library will be closed on Christmas."
+    },
+     {
+        "id": "4",
+        "title": "Holiday Closure",
+        "type": "Announcement",
+        "date": "2025-12-26",
+        "content": "The library will be closed on Boxing Day."
     }
 ]

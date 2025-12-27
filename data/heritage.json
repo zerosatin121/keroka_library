@@ -12,7 +12,7 @@
         "title": "Traditional Basket Weaving",
         "description": "Story of the basket weaving techniques passed down through generations.",
         "type": "Story",
-        "contributor": "Mama Wanjiku",
+        "contributor": "Mama Africa",
         "imageUrl": "/assets/weaving.jpg"
     },
     {
@@ -21,7 +21,8 @@
     "description": "Documentation of traditional songs and dances performed during weddings, harvest celebrations, and initiation ceremonies.",
     "type": "Audio Story",
     "contributor": "Keroka Youth Cultural Group",
-    "imageUrl": "/assets/dance.png"
+    "imageUrl": "/assets/dance.png",
+     "contributor": "unsplash images"
   },
   {
     "id": "5",
@@ -29,6 +30,24 @@
      "description": "Photograph and explanation of traditional Abagusii clothing, including animal skins and beadwork worn during ceremonies.",
     "type": "Photo",
     "year": "1940",
+     "contributor": "unsplash images",
     "imageUrl": "/assets/attire.png"
+  },
+   {
+    "id": "7",
+    "title": "Bananas as a Traditional Staple Food",
+    "description": "For generations, bananas have been a key staple food among the Abagusii, prepared boiled, mashed, or mixed with vegetables in daily meals.",
+    "type": "Story",
+    "contributor": "unsplash images",
+    "imageUrl": "/assets/banana.jpg"
+  },
+   {
+    "id": "8",
+    "title": "Keroka Town",
+    "description": "A historical photograph of Keroka Town showing its growth as a commercial hub serving Kisii and Nyamira regions, known for trade in bananas, tea, and farm produce.",
+    "type": "Photo",
+    "year": "1970",
+     "contributor": "Abiri Kenya",
+    "imageUrl": "/assets/keroka_town.jpg"
   }
 ]

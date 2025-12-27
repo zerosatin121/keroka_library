@@ -14,5 +14,21 @@
         "type": "Story",
         "contributor": "Mama Wanjiku",
         "imageUrl": "/assets/weaving.png"
-    }
+    },
+    {
+    "id": "3",
+    "title": "Gusii Traditional Music and Dance",
+    "description": "Documentation of traditional songs and dances performed during weddings, harvest celebrations, and initiation ceremonies.",
+    "type": "Audio Story",
+    "contributor": "Keroka Youth Cultural Group",
+    "imageUrl": "/assets/dance.png"
+  },
+  {
+    "id": "5",
+    "title": "Gusii Traditional Attire",
+     "description": "Photograph and explanation of traditional Abagusii clothing, including animal skins and beadwork worn during ceremonies.",
+    "type": "Photo",
+    "year": "1940",
+    "imageUrl": "/assets/attire.png"
+  }
 ]

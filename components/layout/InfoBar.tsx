@@ -11,7 +11,7 @@ export function InfoBar() {
                     </div>
                     <div className="hidden md:flex items-center gap-1.5">
                         <MapPin className="w-4 h-4" />
-                        <span>Main Street, Green Valley</span>
+                        <span>Keroka, Kisii County, Kenya</span>
                     </div>
                 </div>
                 <div className="flex items-center gap-1.5">

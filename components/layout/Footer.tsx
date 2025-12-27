@@ -33,8 +33,8 @@ export function Footer() {
                     <div>
                         <h3 className="font-merriweather font-bold text-lg mb-4 text-accent">Visit Us</h3>
                         <ul className="space-y-2 text-sm text-white/80">
-                            <li>Green Valley Main Street</li>
-                            <li>PO Box 1234, Green Valley</li>
+                            <li>Kisii County, Kenya</li>
+                            <li>PO Box 1234,Kisii</li>
                             <li>Email: hello@thebridge.ke</li>
                             <li>Phone: +254 700 000 000</li>
                         </ul>
@@ -49,7 +49,7 @@ export function Footer() {
                             <a href="#" className="hover:text-accent transition-colors"><Instagram className="w-5 h-5" /></a>
                         </div>
                         <p className="text-sm text-white/80">
-                            Open Mon-Sat<br />8:00 AM - 6:00 PM
+                            Open Mon-Fri<br />8:00 AM - 6:00 PM
                         </p>
                     </div>
                 </div>

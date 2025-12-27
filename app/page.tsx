@@ -35,7 +35,7 @@ export default function Home() {
         <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col justify-center h-full text-white">
           <h1 className="font-merriweather font-black text-4xl md:text-6xl mb-6 shadow-sm">
             Welcome to <br />
-            <span className="text-accent text-5xl md:text-7xl">The Bridge</span>
+            <span className="text-accent text-5xl md:text-7xl">Keroka Community Library</span>
           </h1>
           <p className="text-lg md:text-xl max-w-2xl mb-8 font-light leading-relaxed">
             More than just a library. We are the community's living room — a space for heritage, learning, and connection.

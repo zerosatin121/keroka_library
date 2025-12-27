@@ -24,7 +24,7 @@ export default function Home() {
         <div className="absolute inset-0 z-0 h-full w-full">
           <Image
             src="/assets/hero.png"
-            alt="The Bridge Community Library"
+            alt="Keroka Community Library"
             fill
             className="object-cover opacity-20 mix-blend-overlay"
             priority

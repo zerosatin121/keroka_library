@@ -55,7 +55,7 @@ export function Footer() {
                 </div>
 
                 <div className="border-t border-white/10 pt-6 text-center text-sm text-white/60">
-                    <p>&copy; {new Date().getFullYear()} The Bridge Community Library. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Keroka  Community Library. All rights reserved @2026</p>
                 </div>
             </div>
         </footer>
